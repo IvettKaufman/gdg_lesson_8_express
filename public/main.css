@@ -1,20 +1,20 @@
 /* this style file is referenced in the index.html file and will be sent to the client */
 
 body {
-    background-color: black;
+    background-color: salmon;
 }
 
 .title {
-    color: darkred;
+    color: black;
 }
 
 .main-text {
-    color: darkred;
+    color: black;
     font-style: italic;
 }
 
 .small-text {
-    color: darkred;
+    color: salmon;
     font-style: italic;
     font-size: 0.5rem;
 }
